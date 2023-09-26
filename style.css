@@ -1,1 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Poppins:wght@400;500;800&display=swap");
 
+body {
+  background-color: lightblue;
+
+  font-family: "Montserrat", sans-serif;
+}
+
+#judul-blog {
+  text-indent: 50px;
+  font-size: 32px;
+}
+
+#judul-three {
+  font-size: 2em;
+}
+
+.blog-paragraph {
+  letter-spacing: 1px;
+}
+
+.blog-second {
+  word-spacing: 10px;
+}
+
+.blog-three {
+  line-height: 1.6;
+}
+
+.blog-four-span {
+  font-weight: bold;
+}
+
+.judul-three-span {
+  font-style: italic;
+}
